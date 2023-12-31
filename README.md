@@ -116,4 +116,9 @@ You can find a description of each table and its columns below:
     * check_out_time: time user hotel stay ends (timestamp)
     
     * hotel_per_room_usd: pre discount price of hotel stay (decimal)
-    
+
+The reference file:
+
+1.) spreadsheet: https://docs.google.com/spreadsheets/d/13k18sEXmxbXBz1QkGiz0Kl7rHTjObEAtnClM0R7tD5Q/edit#gid=1283280955
+
+2.) Jupyter notebook : file:///Users/satakshisalaria/Downloads/Untitled%20(3).html
